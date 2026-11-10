@@ -1,0 +1,1437 @@
+[
+  {
+    "track": "Python",
+    "number": 1,
+    "concept": "Syntax Types and Operators",
+    "path": "Python/01-syntax-types-and-operators/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 2,
+    "concept": "Control Flow and Functions",
+    "path": "Python/02-control-flow-and-functions/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 3,
+    "concept": "Collections and Comprehensions",
+    "path": "Python/03-collections-and-comprehensions/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 4,
+    "concept": "Strings Files and Exceptions",
+    "path": "Python/04-strings-files-and-exceptions/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 5,
+    "concept": "OOP and Dataclasses",
+    "path": "Python/05-oop-and-dataclasses/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 6,
+    "concept": "Modules Packages and Environments",
+    "path": "Python/06-modules-packages-and-environments/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 7,
+    "concept": "Iterators Generators and Context Managers",
+    "path": "Python/07-iterators-generators-and-context-managers/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 8,
+    "concept": "Decorators and Functional Tools",
+    "path": "Python/08-decorators-and-functional-tools/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 9,
+    "concept": "Typing Testing and Debugging",
+    "path": "Python/09-typing-testing-and-debugging/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 10,
+    "concept": "Async Concurrency and Multiprocessing",
+    "path": "Python/10-async-concurrency-and-multiprocessing/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 11,
+    "concept": "NumPy and Pandas",
+    "path": "Python/11-numpy-and-pandas/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "Python",
+    "number": 12,
+    "concept": "Logging Configuration and Reproducibility",
+    "path": "Python/12-logging-configuration-and-reproducibility/README.md",
+    "source": "https://algomaster.io/roadmaps/python"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 1,
+    "concept": "Mathematics and Statistics",
+    "path": "ML-DL-CV/01-mathematics-and-statistics/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 2,
+    "concept": "Data Preparation and EDA",
+    "path": "ML-DL-CV/02-data-preparation-and-eda/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 3,
+    "concept": "Splits Cross Validation and Leakage",
+    "path": "ML-DL-CV/03-splits-cross-validation-and-leakage/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 4,
+    "concept": "Linear and Logistic Regression",
+    "path": "ML-DL-CV/04-linear-and-logistic-regression/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 5,
+    "concept": "Trees Random Forests and Boosting",
+    "path": "ML-DL-CV/05-trees-random-forests-and-boosting/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 6,
+    "concept": "SVM KNN and Naive Bayes",
+    "path": "ML-DL-CV/06-svm-knn-and-naive-bayes/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 7,
+    "concept": "Clustering and Dimensionality Reduction",
+    "path": "ML-DL-CV/07-clustering-and-dimensionality-reduction/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 8,
+    "concept": "Metrics Imbalance and Calibration",
+    "path": "ML-DL-CV/08-metrics-imbalance-and-calibration/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 9,
+    "concept": "Feature Engineering Pipelines and Tuning",
+    "path": "ML-DL-CV/09-feature-engineering-pipelines-and-tuning/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 10,
+    "concept": "Neural Networks and Backpropagation",
+    "path": "ML-DL-CV/10-neural-networks-and-backpropagation/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 11,
+    "concept": "Optimization and Regularization",
+    "path": "ML-DL-CV/11-optimization-and-regularization/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 12,
+    "concept": "CNNs and Image Classification",
+    "path": "ML-DL-CV/12-cnns-and-image-classification/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 13,
+    "concept": "Transfer Learning and Fine Tuning",
+    "path": "ML-DL-CV/13-transfer-learning-and-fine-tuning/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 14,
+    "concept": "Object Detection",
+    "path": "ML-DL-CV/14-object-detection/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 15,
+    "concept": "Semantic and Instance Segmentation",
+    "path": "ML-DL-CV/15-semantic-and-instance-segmentation/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 16,
+    "concept": "Sequence Models and Attention",
+    "path": "ML-DL-CV/16-sequence-models-and-attention/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 17,
+    "concept": "Generative Models",
+    "path": "ML-DL-CV/17-generative-models/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 18,
+    "concept": "Advanced Computer Vision",
+    "path": "ML-DL-CV/18-advanced-computer-vision/README.md",
+    "source": "https://algomaster.io/roadmaps/dl"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 19,
+    "concept": "Explainability Fairness and Error Analysis",
+    "path": "ML-DL-CV/19-explainability-fairness-and-error-analysis/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 20,
+    "concept": "Serving Monitoring and Reproducibility",
+    "path": "ML-DL-CV/20-serving-monitoring-and-reproducibility/README.md",
+    "source": "https://algomaster.io/roadmaps/ml"
+  },
+  {
+    "track": "SQL",
+    "number": 1,
+    "concept": "Relational Basics and Data Types",
+    "path": "SQL/01-relational-basics-and-data-types/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 2,
+    "concept": "SELECT Filtering and Ordering",
+    "path": "SQL/02-select-filtering-and-ordering/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 3,
+    "concept": "Aggregations GROUP BY and HAVING",
+    "path": "SQL/03-aggregations-group-by-and-having/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 4,
+    "concept": "Joins",
+    "path": "SQL/04-joins/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 5,
+    "concept": "Subqueries CTEs and Set Operations",
+    "path": "SQL/05-subqueries-ctes-and-set-operations/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 6,
+    "concept": "Window Functions",
+    "path": "SQL/06-window-functions/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 7,
+    "concept": "Keys Constraints and Normalization",
+    "path": "SQL/07-keys-constraints-and-normalization/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 8,
+    "concept": "Transactions Isolation and Locks",
+    "path": "SQL/08-transactions-isolation-and-locks/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 9,
+    "concept": "Indexes and Query Plans",
+    "path": "SQL/09-indexes-and-query-plans/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 10,
+    "concept": "NULL CASE Dates and Strings",
+    "path": "SQL/10-null-case-dates-and-strings/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 11,
+    "concept": "Views Migrations and Permissions",
+    "path": "SQL/11-views-migrations-and-permissions/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "SQL",
+    "number": 12,
+    "concept": "SQL Practice Case Study",
+    "path": "SQL/12-sql-practice-case-study/README.md",
+    "source": "https://algomaster.io/roadmaps/sql"
+  },
+  {
+    "track": "React",
+    "number": 1,
+    "concept": "HTML CSS and Accessibility",
+    "path": "React/01-html-css-and-accessibility/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 2,
+    "concept": "JavaScript Foundations",
+    "path": "React/02-javascript-foundations/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 3,
+    "concept": "TypeScript Foundations",
+    "path": "React/03-typescript-foundations/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 4,
+    "concept": "Components JSX and Props",
+    "path": "React/04-components-jsx-and-props/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 5,
+    "concept": "State Events and Rendering",
+    "path": "React/05-state-events-and-rendering/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 6,
+    "concept": "Lists Keys and Conditional UI",
+    "path": "React/06-lists-keys-and-conditional-ui/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 7,
+    "concept": "Forms and Validation",
+    "path": "React/07-forms-and-validation/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 8,
+    "concept": "Effects Refs and Custom Hooks",
+    "path": "React/08-effects-refs-and-custom-hooks/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 9,
+    "concept": "Routing and API Integration",
+    "path": "React/09-routing-and-api-integration/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 10,
+    "concept": "Shared State and Reducers",
+    "path": "React/10-shared-state-and-reducers/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 11,
+    "concept": "Testing and Error Handling",
+    "path": "React/11-testing-and-error-handling/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "React",
+    "number": 12,
+    "concept": "Performance and Deployment",
+    "path": "React/12-performance-and-deployment/README.md",
+    "source": "https://algomaster.io/roadmaps/react"
+  },
+  {
+    "track": "DevOps",
+    "number": 1,
+    "concept": "Linux and Bash",
+    "path": "DevOps/01-linux-and-bash/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 2,
+    "concept": "Networking Basics",
+    "path": "DevOps/02-networking-basics/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 3,
+    "concept": "Git and GitHub",
+    "path": "DevOps/03-git-and-github/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 4,
+    "concept": "Docker",
+    "path": "DevOps/04-docker/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 5,
+    "concept": "Docker Compose",
+    "path": "DevOps/05-docker-compose/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 6,
+    "concept": "Kubernetes",
+    "path": "DevOps/06-kubernetes/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 7,
+    "concept": "Helm",
+    "path": "DevOps/07-helm/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 8,
+    "concept": "CI CD Pipelines",
+    "path": "DevOps/08-ci-cd-pipelines/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 9,
+    "concept": "GitHub Actions",
+    "path": "DevOps/09-github-actions/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 10,
+    "concept": "AWS Cloud",
+    "path": "DevOps/10-aws-cloud/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 11,
+    "concept": "Terraform",
+    "path": "DevOps/11-terraform/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 12,
+    "concept": "Ansible",
+    "path": "DevOps/12-ansible/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 13,
+    "concept": "Nginx Reverse Proxy",
+    "path": "DevOps/13-nginx-reverse-proxy/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 14,
+    "concept": "Load Balancers",
+    "path": "DevOps/14-load-balancers/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 15,
+    "concept": "Prometheus",
+    "path": "DevOps/15-prometheus/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 16,
+    "concept": "Grafana",
+    "path": "DevOps/16-grafana/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 17,
+    "concept": "ELK Logging",
+    "path": "DevOps/17-elk-logging/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 18,
+    "concept": "Blue Green Deploys",
+    "path": "DevOps/18-blue-green-deploys/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 19,
+    "concept": "Auto Scaling",
+    "path": "DevOps/19-auto-scaling/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "DevOps",
+    "number": 20,
+    "concept": "Secrets Management",
+    "path": "DevOps/20-secrets-management/README.md",
+    "source": "https://algomaster.io/roadmaps/devops"
+  },
+  {
+    "track": "Security",
+    "number": 1,
+    "concept": "OWASP Top 10",
+    "path": "Security/01-owasp-top-10/README.md",
+    "source": "https://owasp.org/projects/top-ten?lang=en"
+  },
+  {
+    "track": "Security",
+    "number": 2,
+    "concept": "SQL Injection",
+    "path": "Security/02-sql-injection/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 3,
+    "concept": "XSS",
+    "path": "Security/03-xss/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 4,
+    "concept": "CSRF",
+    "path": "Security/04-csrf/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 5,
+    "concept": "CORS",
+    "path": "Security/05-cors/README.md",
+    "source": "https://cheatsheetseries.owasp.org/"
+  },
+  {
+    "track": "Security",
+    "number": 6,
+    "concept": "SSRF",
+    "path": "Security/06-ssrf/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 7,
+    "concept": "HTTPS and TLS",
+    "path": "Security/07-https-and-tls/README.md",
+    "source": "https://cheatsheetseries.owasp.org/"
+  },
+  {
+    "track": "Security",
+    "number": 8,
+    "concept": "Hashing and Encryption",
+    "path": "Security/08-hashing-and-encryption/README.md",
+    "source": "https://cheatsheetseries.owasp.org/"
+  },
+  {
+    "track": "Security",
+    "number": 9,
+    "concept": "Password Hashing",
+    "path": "Security/09-password-hashing/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 10,
+    "concept": "Secure Sessions",
+    "path": "Security/10-secure-sessions/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 11,
+    "concept": "JWT Security",
+    "path": "Security/11-jwt-security/README.md",
+    "source": "https://cheatsheetseries.owasp.org/"
+  },
+  {
+    "track": "Security",
+    "number": 12,
+    "concept": "OAuth Security",
+    "path": "Security/12-oauth-security/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/OAuth2_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 13,
+    "concept": "Secrets Management",
+    "path": "Security/13-secrets-management/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 14,
+    "concept": "IAM and Least Privilege",
+    "path": "Security/14-iam-and-least-privilege/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 15,
+    "concept": "Security Headers and CSP",
+    "path": "Security/15-security-headers-and-csp/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 16,
+    "concept": "Rate Limiting and DDoS",
+    "path": "Security/16-rate-limiting-and-ddos/README.md",
+    "source": "https://cheatsheetseries.owasp.org/"
+  },
+  {
+    "track": "Security",
+    "number": 17,
+    "concept": "Input Validation",
+    "path": "Security/17-input-validation/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html"
+  },
+  {
+    "track": "Security",
+    "number": 18,
+    "concept": "Dependency Scanning",
+    "path": "Security/18-dependency-scanning/README.md",
+    "source": "https://cheatsheetseries.owasp.org/"
+  },
+  {
+    "track": "Security",
+    "number": 19,
+    "concept": "Penetration Testing",
+    "path": "Security/19-penetration-testing/README.md",
+    "source": "https://cheatsheetseries.owasp.org/"
+  },
+  {
+    "track": "Security",
+    "number": 20,
+    "concept": "Prompt Injection",
+    "path": "Security/20-prompt-injection/README.md",
+    "source": "https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html"
+  },
+  {
+    "track": "Backend",
+    "number": 1,
+    "concept": "REST APIs",
+    "path": "Backend/01-rest-apis/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 2,
+    "concept": "HTTP and Status Codes",
+    "path": "Backend/02-http-and-status-codes/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 3,
+    "concept": "Authentication with JWT",
+    "path": "Backend/03-authentication-with-jwt/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 4,
+    "concept": "OAuth 2.0",
+    "path": "Backend/04-oauth-2-0/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 5,
+    "concept": "Sessions and Cookies",
+    "path": "Backend/05-sessions-and-cookies/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 6,
+    "concept": "SQL vs NoSQL",
+    "path": "Backend/06-sql-vs-nosql/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 7,
+    "concept": "Database Indexing",
+    "path": "Backend/07-database-indexing/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 8,
+    "concept": "Transactions and ACID",
+    "path": "Backend/08-transactions-and-acid/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 9,
+    "concept": "ORM and Migrations",
+    "path": "Backend/09-orm-and-migrations/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 10,
+    "concept": "Caching with Redis",
+    "path": "Backend/10-caching-with-redis/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 11,
+    "concept": "Message Queues",
+    "path": "Backend/11-message-queues/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 12,
+    "concept": "Rate Limiting",
+    "path": "Backend/12-rate-limiting/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 13,
+    "concept": "WebSockets",
+    "path": "Backend/13-websockets/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 14,
+    "concept": "Background Jobs",
+    "path": "Backend/14-background-jobs/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 15,
+    "concept": "File Uploads to S3",
+    "path": "Backend/15-file-uploads-to-s3/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 16,
+    "concept": "Pagination",
+    "path": "Backend/16-pagination/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 17,
+    "concept": "API Versioning",
+    "path": "Backend/17-api-versioning/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 18,
+    "concept": "Input Validation",
+    "path": "Backend/18-input-validation/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 19,
+    "concept": "Logging and Monitoring",
+    "path": "Backend/19-logging-and-monitoring/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "Backend",
+    "number": 20,
+    "concept": "Unit and Integration Tests",
+    "path": "Backend/20-unit-and-integration-tests/README.md",
+    "source": "https://algomaster.io/roadmaps/backend"
+  },
+  {
+    "track": "LLM",
+    "number": 1,
+    "concept": "LLM Fundamentals",
+    "path": "LLM/01-llm-fundamentals/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 2,
+    "concept": "Tokens and Context Window",
+    "path": "LLM/02-tokens-and-context-window/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 3,
+    "concept": "Prompt Engineering",
+    "path": "LLM/03-prompt-engineering/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 4,
+    "concept": "Structured Outputs",
+    "path": "LLM/04-structured-outputs/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 5,
+    "concept": "Embeddings",
+    "path": "LLM/05-embeddings/README.md",
+    "source": "https://algomaster.io/roadmaps/rag"
+  },
+  {
+    "track": "LLM",
+    "number": 6,
+    "concept": "Vector Databases",
+    "path": "LLM/06-vector-databases/README.md",
+    "source": "https://algomaster.io/roadmaps/rag"
+  },
+  {
+    "track": "LLM",
+    "number": 7,
+    "concept": "RAG Pipelines",
+    "path": "LLM/07-rag-pipelines/README.md",
+    "source": "https://algomaster.io/roadmaps/rag"
+  },
+  {
+    "track": "LLM",
+    "number": 8,
+    "concept": "Chunking Strategies",
+    "path": "LLM/08-chunking-strategies/README.md",
+    "source": "https://algomaster.io/roadmaps/rag"
+  },
+  {
+    "track": "LLM",
+    "number": 9,
+    "concept": "Reranking",
+    "path": "LLM/09-reranking/README.md",
+    "source": "https://algomaster.io/roadmaps/rag"
+  },
+  {
+    "track": "LLM",
+    "number": 10,
+    "concept": "Tool Calling",
+    "path": "LLM/10-tool-calling/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 11,
+    "concept": "MCP Protocol",
+    "path": "LLM/11-mcp-protocol/README.md",
+    "source": "https://modelcontextprotocol.io/docs/learn/architecture"
+  },
+  {
+    "track": "LLM",
+    "number": 12,
+    "concept": "ReAct Agent Loop",
+    "path": "LLM/12-react-agent-loop/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 13,
+    "concept": "Planning and Reflection",
+    "path": "LLM/13-planning-and-reflection/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 14,
+    "concept": "Agent Memory",
+    "path": "LLM/14-agent-memory/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 15,
+    "concept": "Multi Agent Systems",
+    "path": "LLM/15-multi-agent-systems/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 16,
+    "concept": "Agent Orchestration",
+    "path": "LLM/16-agent-orchestration/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 17,
+    "concept": "Guardrails",
+    "path": "LLM/17-guardrails/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 18,
+    "concept": "Evals",
+    "path": "LLM/18-evals/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 19,
+    "concept": "Observability and Tracing",
+    "path": "LLM/19-observability-and-tracing/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 20,
+    "concept": "Fine Tuning with LoRA",
+    "path": "LLM/20-fine-tuning-with-lora/README.md",
+    "source": "https://algomaster.io/roadmaps/genai"
+  },
+  {
+    "track": "LLM",
+    "number": 21,
+    "concept": "NLP Foundations and Vector Spaces",
+    "path": "LLM/21-nlp-foundations-and-vector-spaces/README.md",
+    "source": "https://huggingface.co/learn/llm-course/chapter1/1"
+  },
+  {
+    "track": "LLM",
+    "number": 22,
+    "concept": "Probabilistic NLP and Sequence Models",
+    "path": "LLM/22-probabilistic-nlp-and-sequence-models/README.md",
+    "source": "https://huggingface.co/learn/llm-course/chapter1/1"
+  },
+  {
+    "track": "LLM",
+    "number": 23,
+    "concept": "Attention and Transformers",
+    "path": "LLM/23-attention-and-transformers/README.md",
+    "source": "https://huggingface.co/learn/llm-course/chapter1/1"
+  },
+  {
+    "track": "LLM",
+    "number": 24,
+    "concept": "Small Language Models and Quantization",
+    "path": "LLM/24-small-language-models-and-quantization/README.md",
+    "source": "https://huggingface.co/learn/llm-course/chapter1/1"
+  },
+  {
+    "track": "LLM",
+    "number": 25,
+    "concept": "LangChain and Workflow Frameworks",
+    "path": "LLM/25-langchain-and-workflow-frameworks/README.md",
+    "source": "https://huggingface.co/learn/llm-course/chapter1/1"
+  },
+  {
+    "track": "DSA",
+    "number": 1,
+    "concept": "Arrays and Strings",
+    "path": "DSA/01-arrays-and-strings/README.md",
+    "source": "https://algomaster.io/learn/dsa/arrays-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 2,
+    "concept": "Hashing",
+    "path": "DSA/02-hashing/README.md",
+    "source": "https://algomaster.io/learn/dsa/hash-tables-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 3,
+    "concept": "Two Pointers",
+    "path": "DSA/03-two-pointers/README.md",
+    "source": "https://algomaster.io/learn/dsa/two-pointers-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 4,
+    "concept": "Sliding Window",
+    "path": "DSA/04-sliding-window/README.md",
+    "source": "https://algomaster.io/learn/dsa/sliding-window-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 5,
+    "concept": "Prefix Sum",
+    "path": "DSA/05-prefix-sum/README.md",
+    "source": "https://algomaster.io/learn/dsa/prefix-sum-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 6,
+    "concept": "Binary Search",
+    "path": "DSA/06-binary-search/README.md",
+    "source": "https://algomaster.io/learn/dsa/binary-search-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 7,
+    "concept": "Stack and Queue",
+    "path": "DSA/07-stack-and-queue/README.md",
+    "source": "https://algomaster.io/learn/dsa/stack-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 8,
+    "concept": "Monotonic Stack",
+    "path": "DSA/08-monotonic-stack/README.md",
+    "source": "https://algomaster.io/learn/dsa/monotonic-stack-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 9,
+    "concept": "Linked List",
+    "path": "DSA/09-linked-list/README.md",
+    "source": "https://algomaster.io/learn/dsa/linked-list-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 10,
+    "concept": "Recursion",
+    "path": "DSA/10-recursion/README.md",
+    "source": "https://algomaster.io/learn/dsa/recursion-fundamentals"
+  },
+  {
+    "track": "DSA",
+    "number": 11,
+    "concept": "Backtracking",
+    "path": "DSA/11-backtracking/README.md",
+    "source": "https://algomaster.io/learn/dsa/backtracking-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 12,
+    "concept": "Trees and BST",
+    "path": "DSA/12-trees-and-bst/README.md",
+    "source": "https://algomaster.io/learn/dsa/bst-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 13,
+    "concept": "Heap and Priority Queue",
+    "path": "DSA/13-heap-and-priority-queue/README.md",
+    "source": "https://algomaster.io/learn/dsa/heaps-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 14,
+    "concept": "Tries",
+    "path": "DSA/14-tries/README.md",
+    "source": "https://algomaster.io/learn/dsa/tries-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 15,
+    "concept": "Graphs BFS and DFS",
+    "path": "DSA/15-graphs-bfs-and-dfs/README.md",
+    "source": "https://algomaster.io/learn/dsa/bfs-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 16,
+    "concept": "Topological Sort",
+    "path": "DSA/16-topological-sort/README.md",
+    "source": "https://algomaster.io/learn/dsa/topological-sort-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 17,
+    "concept": "Dijkstra",
+    "path": "DSA/17-dijkstra/README.md",
+    "source": "https://algomaster.io/learn/dsa/dijkstras-algorithm"
+  },
+  {
+    "track": "DSA",
+    "number": 18,
+    "concept": "Union Find",
+    "path": "DSA/18-union-find/README.md",
+    "source": "https://algomaster.io/learn/dsa/union-find-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 19,
+    "concept": "Greedy",
+    "path": "DSA/19-greedy/README.md",
+    "source": "https://algomaster.io/learn/dsa/greedy-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 20,
+    "concept": "Dynamic Programming",
+    "path": "DSA/20-dynamic-programming/README.md",
+    "source": "https://algomaster.io/learn/dsa/dp-introduction"
+  },
+  {
+    "track": "DSA",
+    "number": 21,
+    "concept": "Complexity and Sorting Foundations",
+    "path": "DSA/21-complexity-and-sorting-foundations/README.md",
+    "source": "https://algomaster.io/learn/dsa/big-o-introduction"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 1,
+    "concept": "Scalability",
+    "path": "System-Design-Engineer/HLD/01-scalability/README.md",
+    "source": "https://algomaster.io/learn/system-design/scalability"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 2,
+    "concept": "Load Balancing",
+    "path": "System-Design-Engineer/HLD/02-load-balancing/README.md",
+    "source": "https://algomaster.io/learn/system-design/load-balancers"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 3,
+    "concept": "Caching",
+    "path": "System-Design-Engineer/HLD/03-caching/README.md",
+    "source": "https://algomaster.io/learn/system-design/what-is-caching"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 4,
+    "concept": "CDN",
+    "path": "System-Design-Engineer/HLD/04-cdn/README.md",
+    "source": "https://algomaster.io/learn/system-design/content-delivery-network-cdn"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 5,
+    "concept": "Database Sharding",
+    "path": "System-Design-Engineer/HLD/05-database-sharding/README.md",
+    "source": "https://algomaster.io/learn/system-design/sharding"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 6,
+    "concept": "Replication",
+    "path": "System-Design-Engineer/HLD/06-replication/README.md",
+    "source": "https://algomaster.io/learn/system-design/database-replication"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 7,
+    "concept": "Consistent Hashing",
+    "path": "System-Design-Engineer/HLD/07-consistent-hashing/README.md",
+    "source": "https://algomaster.io/learn/system-design/consistent-hashing"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 8,
+    "concept": "CAP Theorem",
+    "path": "System-Design-Engineer/HLD/08-cap-theorem/README.md",
+    "source": "https://algomaster.io/learn/system-design/cap-theorem"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 9,
+    "concept": "PACELC",
+    "path": "System-Design-Engineer/HLD/09-pacelc/README.md",
+    "source": "https://dbmsmusings.blogspot.com/2010/04/problems-with-cap-and-yahoos-little.html"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 10,
+    "concept": "Consistency Models",
+    "path": "System-Design-Engineer/HLD/10-consistency-models/README.md",
+    "source": "https://algomaster.io/learn/system-design/consistency-models"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 11,
+    "concept": "Kafka and Pub Sub",
+    "path": "System-Design-Engineer/HLD/11-kafka-and-pub-sub/README.md",
+    "source": "https://algomaster.io/learn/system-design/pub-sub"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 12,
+    "concept": "Event Driven Architecture",
+    "path": "System-Design-Engineer/HLD/12-event-driven-architecture/README.md",
+    "source": "https://algomaster.io/learn/system-design/event-driven-architecture"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 13,
+    "concept": "Microservices",
+    "path": "System-Design-Engineer/HLD/13-microservices/README.md",
+    "source": "https://algomaster.io/learn/system-design/microservices-architecture"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 14,
+    "concept": "API Gateway",
+    "path": "System-Design-Engineer/HLD/14-api-gateway/README.md",
+    "source": "https://algomaster.io/learn/system-design/api-gateway-pattern"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 15,
+    "concept": "Rate Limiter Design",
+    "path": "System-Design-Engineer/HLD/15-rate-limiter-design/README.md",
+    "source": "https://algomaster.io/learn/system-design/rate-limiting"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 16,
+    "concept": "Bloom Filter",
+    "path": "System-Design-Engineer/HLD/16-bloom-filter/README.md",
+    "source": "https://algomaster.io/learn/system-design/bloom-filters"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 17,
+    "concept": "Circuit Breaker",
+    "path": "System-Design-Engineer/HLD/17-circuit-breaker/README.md",
+    "source": "https://algomaster.io/learn/system-design/circuit-breaker-pattern"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 18,
+    "concept": "Saga Pattern",
+    "path": "System-Design-Engineer/HLD/18-saga-pattern/README.md",
+    "source": "https://algomaster.io/learn/system-design/saga-pattern"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 19,
+    "concept": "Blob Storage",
+    "path": "System-Design-Engineer/HLD/19-blob-storage/README.md",
+    "source": "https://algomaster.io/learn/system-design/object-storage"
+  },
+  {
+    "track": "System-Design-Engineer/HLD",
+    "number": 20,
+    "concept": "Back of Envelope Estimation",
+    "path": "System-Design-Engineer/HLD/20-back-of-envelope-estimation/README.md",
+    "source": "https://algomaster.io/learn/system-design-interviews/course-roadmap"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 1,
+    "concept": "OOP Pillars",
+    "path": "System-Design-Engineer/LLD/01-oop-pillars/README.md",
+    "source": "https://algomaster.io/learn/lld/classes-and-objects"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 2,
+    "concept": "SOLID Principles",
+    "path": "System-Design-Engineer/LLD/02-solid-principles/README.md",
+    "source": "https://blog.algomaster.io/p/solid-principles-explained-with-code"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 3,
+    "concept": "DRY KISS YAGNI",
+    "path": "System-Design-Engineer/LLD/03-dry-kiss-yagni/README.md",
+    "source": "https://algomaster.io/learn/lld/dry"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 4,
+    "concept": "Composition over Inheritance",
+    "path": "System-Design-Engineer/LLD/04-composition-over-inheritance/README.md",
+    "source": "https://algomaster.io/learn/lld/composition"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 5,
+    "concept": "UML Class Diagrams",
+    "path": "System-Design-Engineer/LLD/05-uml-class-diagrams/README.md",
+    "source": "https://algomaster.io/learn/lld/class-diagram"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 6,
+    "concept": "Singleton",
+    "path": "System-Design-Engineer/LLD/06-singleton/README.md",
+    "source": "https://algomaster.io/learn/lld/singleton"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 7,
+    "concept": "Factory",
+    "path": "System-Design-Engineer/LLD/07-factory/README.md",
+    "source": "https://algomaster.io/learn/lld/factory-method"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 8,
+    "concept": "Abstract Factory",
+    "path": "System-Design-Engineer/LLD/08-abstract-factory/README.md",
+    "source": "https://algomaster.io/learn/lld/abstract-factory"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 9,
+    "concept": "Builder",
+    "path": "System-Design-Engineer/LLD/09-builder/README.md",
+    "source": "https://algomaster.io/learn/lld/builder"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 10,
+    "concept": "Prototype",
+    "path": "System-Design-Engineer/LLD/10-prototype/README.md",
+    "source": "https://algomaster.io/learn/lld/prototype"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 11,
+    "concept": "Adapter",
+    "path": "System-Design-Engineer/LLD/11-adapter/README.md",
+    "source": "https://algomaster.io/learn/lld/adapter"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 12,
+    "concept": "Decorator",
+    "path": "System-Design-Engineer/LLD/12-decorator/README.md",
+    "source": "https://algomaster.io/learn/lld/decorator"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 13,
+    "concept": "Facade",
+    "path": "System-Design-Engineer/LLD/13-facade/README.md",
+    "source": "https://algomaster.io/learn/lld/facade"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 14,
+    "concept": "Proxy",
+    "path": "System-Design-Engineer/LLD/14-proxy/README.md",
+    "source": "https://algomaster.io/learn/lld/proxy"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 15,
+    "concept": "Observer",
+    "path": "System-Design-Engineer/LLD/15-observer/README.md",
+    "source": "https://algomaster.io/learn/lld/observer"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 16,
+    "concept": "Strategy",
+    "path": "System-Design-Engineer/LLD/16-strategy/README.md",
+    "source": "https://algomaster.io/learn/lld/strategy"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 17,
+    "concept": "Command",
+    "path": "System-Design-Engineer/LLD/17-command/README.md",
+    "source": "https://algomaster.io/learn/lld/command"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 18,
+    "concept": "State",
+    "path": "System-Design-Engineer/LLD/18-state/README.md",
+    "source": "https://algomaster.io/learn/lld/state"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 19,
+    "concept": "Thread Safety",
+    "path": "System-Design-Engineer/LLD/19-thread-safety/README.md",
+    "source": "https://algomaster.io/practice/concurrency"
+  },
+  {
+    "track": "System-Design-Engineer/LLD",
+    "number": 20,
+    "concept": "Machine Coding",
+    "path": "System-Design-Engineer/LLD/20-machine-coding/README.md",
+    "source": "https://blog.algomaster.io/p/how-to-answer-a-lld-interview-problem"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 21,
+    "concept": "Anomaly Detection",
+    "path": "ML-DL-CV/21-anomaly-detection/README.md",
+    "source": "Existing local coursework; see EXISTING-WORK.md"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 22,
+    "concept": "Recommender Systems",
+    "path": "ML-DL-CV/22-recommender-systems/README.md",
+    "source": "Existing local coursework; see EXISTING-WORK.md"
+  },
+  {
+    "track": "ML-DL-CV",
+    "number": 23,
+    "concept": "Reinforcement Learning",
+    "path": "ML-DL-CV/23-reinforcement-learning/README.md",
+    "source": "Existing local coursework; see EXISTING-WORK.md"
+  }
+]

@@ -1,0 +1,15 @@
+# Existing practice: 04-strings-files-and-exceptions
+
+[Concept note](README.md) · [Your practice](practice/README.md)
+
+These are your previously imported files, not newly generated solutions. Cell numbers below are **1-based notebook positions**, including Markdown cells; they are not execution counts.
+
+| Material | Cells / sections | Coverage |
+|---|---|---|
+| [Python Practice.ipynb](../01-syntax-types-and-operators/practice/existing/Python%20Practice.ipynb) | 31–78, 93–100, 113, 174–175 | String formatting/methods, splitting, file handling, and LogFile exercises; not a full exceptions curriculum. |
+
+## Before running
+
+Run notebooks with the working directory set to the notebook's folder. Preserve the existing examples as reference and put new attempts beside them. Notebook state, package versions, external downloads, helper modules, and data requirements may still need attention. This migration does not mark topics complete.
+
+The shared Python notebook intentionally contains exploratory/error cells and cells depending on earlier variables. It is an intact reference, not a clean run-all program. For example, the first temperature-conversion function uses an outer variable rather than its named parameter. Packaging/environments, async/processes, full testing, and decorator implementations are not demonstrated by the existing files.
