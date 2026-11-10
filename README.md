@@ -40,6 +40,6 @@ Start with the [Python coverage map](Python/EXISTING-WORK.md), [LLM coverage map
 
 ## References
 
-The organization follows your screenshots and public [AlgoMaster roadmaps](https://algomaster.io/roadmaps). DSA/HLD/LLD notes link to relevant readings. Explanations and exercises are concise original study notes, not copied lessons or paid-course exports. Official references supplement other topics; see [sources](docs/SOURCES.md).
+I  followed the  screenshots and public [AlgoMaster roadmaps](https://algomaster.io/roadmaps). DSA/HLD/LLD notes link to relevant readings. Explanations and exercises are concise original study notes, not copied lessons or paid-course exports. Official references supplement other topics; see [sources](docs/SOURCES.md).
 
 There are **205 concept notes and 205 practice folders**. Existing code was organized, not newly authored. No application was committed, pushed, or deployed by this reorganization.
