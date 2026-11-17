@@ -21,16 +21,18 @@ This folder is a set of short lessons that move from the basics to everyday Pyth
 
 ## Running a lesson
 
-From the repository root, run a file with Python. For example:
+The first ten lessons use only the Python standard library. Lessons 11 and 12 also need NumPy; lesson 11 needs pandas. To install those optional lesson dependencies in an isolated environment, run these commands from the repository root:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r .\Python\requirements.txt
+```
+
+Then run a file from the repository root. For example:
 
 ```powershell
 python .\Python\01-syntax-types-and-operators\syntax-types-operators.py
-```
-
-The first ten lessons use the standard library. Lessons 11 and 12 also need NumPy; lesson 11 needs pandas as well:
-
-```powershell
-python -m pip install numpy pandas
 ```
 
 The examples are meant to be read and edited. They are not a test suite, so run one lesson at a time and follow any prompts printed by that file.
