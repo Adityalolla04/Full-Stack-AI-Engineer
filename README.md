@@ -40,6 +40,6 @@ Start with the [Python lessons](Python/README.md), [LLM coverage map](LLM/EXISTI
 
 ## References
 
-The organization follows your screenshots and public [AlgoMaster roadmaps](https://algomaster.io/roadmaps). DSA/HLD/LLD notes link to relevant readings. Explanations and exercises are concise original study notes, not copied lessons or paid-course exports. Official references supplement other topics; see [sources](docs/SOURCES.md).
+I  followed the  screenshots and public [AlgoMaster roadmaps](https://algomaster.io/roadmaps). DSA/HLD/LLD notes link to relevant readings. Explanations and exercises are concise original study notes, not copied lessons or paid-course exports. Official references supplement other topics; see [sources](docs/SOURCES.md).
 
 There are **205 concept notes**. Python lessons include runnable examples instead of practice folders. No application was committed, pushed, or deployed by this reorganization.
