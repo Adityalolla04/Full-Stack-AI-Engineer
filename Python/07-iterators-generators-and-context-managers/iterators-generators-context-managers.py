@@ -449,5 +449,16 @@ for f in ["context_test.txt", "file1.txt", "file2.txt"]:
         os.remove(f)
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+def _lesson_example_batches(items, batch_size):
+    for start in range(0, len(items), batch_size):
+        yield items[start:start + batch_size]
+
+
+_lesson_example_readings = [18, 21, 19, 24, 20]
+print(f"\nReading batches: {list(_lesson_example_batches(_lesson_example_readings, 2))}")
+_lesson_example_squares = (number * number for number in range(1, 5))
+print(f"Sum of squares: {sum(_lesson_example_squares)}")
+print("Lesson complete.")

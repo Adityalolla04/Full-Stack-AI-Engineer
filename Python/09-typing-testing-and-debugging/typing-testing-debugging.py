@@ -489,5 +489,15 @@ print("""
 """)
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+def _lesson_example_invoice_total(prices: List[float], tax_rate: float) -> float:
+    subtotal = sum(prices)
+    return round(subtotal * (1 + tax_rate), 2)
+
+
+_lesson_example_total = _lesson_example_invoice_total([12.50, 7.25], 0.1)
+assert _lesson_example_total == 21.73
+print(f"\nInvoice total: ${_lesson_example_total:.2f}")
+print("Lesson complete.")

@@ -6,7 +6,7 @@ These are your previously imported files, not newly generated solutions. Cell nu
 
 | Material | Cells / sections | Coverage |
 |---|---|---|
-| [Python Practice.ipynb](../../Python/01-syntax-types-and-operators/practice/existing/Python%20Practice.ipynb) | 130–141 | Dictionary and frequency-counting basics; not a complete hashing-pattern solution set. |
+| [Python collections examples](../../Python/03-collections-and-comprehensions/collections-comprehensions.py) | — | Dictionary and set examples; this is not a complete hashing-pattern solution set. |
 
 ## Before running
 

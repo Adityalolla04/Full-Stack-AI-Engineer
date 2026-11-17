@@ -6,7 +6,7 @@ These are your previously imported files, not newly generated solutions. Cell nu
 
 | Material | Cells / sections | Coverage |
 |---|---|---|
-| [Python Practice.ipynb](../../Python/01-syntax-types-and-operators/practice/existing/Python%20Practice.ipynb) | 84–99 | Basic array/string operations only; advanced DSA problems remain to do. |
+| [Python collections examples](../../Python/03-collections-and-comprehensions/collections-comprehensions.py) | — | Basic list operations; advanced DSA problems remain to do. |
 
 ## Before running
 

@@ -1,6 +1,6 @@
 # OOP and Dataclasses
 
-[Back to Python](../README.md) · [Your practice space](practice/README.md)
+[Back to Python](../README.md)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Creating a class for every small helper or sharing mutable class attributes acci
 
 Model a session and its invariants, then compare a class with a dictionary.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+The examples live in `oop-dataclasses.py`. Change the sample values or add a method of your own to see how the class behaves.
 
 ## Recall check
 
@@ -33,7 +33,3 @@ Write your own implementation in `practice/` when ready. No solution or starter 
 ## Reference
 
 [Roadmap reference; explanations and exercises are original study notes](https://algomaster.io/roadmaps/python). Consult the linked material for the full lesson; these are concise original notes, not copied course content. References checked on 2026-11-07.
-
-## Your existing material
-
-See the [existing-work guide](EXISTING-WORK.md) for imported files, exact notebook sections, coverage, and limitations.

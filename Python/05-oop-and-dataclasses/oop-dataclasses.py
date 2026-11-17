@@ -452,5 +452,19 @@ print("""
 """)
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+@dataclass
+class _LessonExampleTask:
+    title: str
+    done: bool = False
+
+    def mark_done(self):
+        self.done = True
+
+
+_lesson_example_task = _LessonExampleTask("Review dataclasses")
+_lesson_example_task.mark_done()
+print(f"\n{_lesson_example_task.title}: {'done' if _lesson_example_task.done else 'not done'}")
+print("Lesson complete.")

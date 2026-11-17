@@ -99,6 +99,8 @@ with open(log_filename, 'r') as f:
     print(f"\nLog file content:\n{f.read()}")
 
 # Cleanup
+file_logger.removeHandler(file_handler)
+file_handler.close()
 os.remove(log_filename)
 
 print("\n--- Multiple Handlers ---")
@@ -130,6 +132,10 @@ print("Multi-handler logging (only WARNING+ to console, all to file):")
 multi_logger.debug("Debug message")
 multi_logger.info("Info message")
 multi_logger.warning("Warning message")
+
+for handler in multi_logger.handlers[:]:
+    multi_logger.removeHandler(handler)
+    handler.close()
 
 if os.path.exists("multi.log"):
     os.remove("multi.log")
@@ -543,5 +549,16 @@ print("""
 """)
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+def _lesson_example_sample(seed):
+    generator = random.Random(seed)
+    return [generator.randint(1, 6) for _ in range(5)]
+
+
+_lesson_example_first_rolls = _lesson_example_sample(17)
+_lesson_example_second_rolls = _lesson_example_sample(17)
+assert _lesson_example_first_rolls == _lesson_example_second_rolls
+print(f"\nRepeatable rolls: {_lesson_example_first_rolls}")
+print("Lesson complete.")

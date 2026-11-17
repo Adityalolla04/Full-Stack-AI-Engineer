@@ -521,5 +521,16 @@ print("""
 """)
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+def _lesson_example_label(level, message):
+    return f"[{level}] {message}"
+
+
+_lesson_example_warning = partial(_lesson_example_label, "warning")
+print(f"\n{_lesson_example_warning('Disk space is low')}")
+_lesson_example_names = ["sam", "PRIYA", "jo"]
+_lesson_example_display_names = list(map(str.title, _lesson_example_names))
+print(f"Display names: {_lesson_example_display_names}")
+print("Lesson complete.")

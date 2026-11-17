@@ -1,12 +1,12 @@
 # Learning progress
 
-Existing implementations have been placed by topic. See [Python](../Python/EXISTING-WORK.md), [ML/DL/CV](../ML-DL-CV/EXISTING-WORK.md), and [LLM](../LLM/EXISTING-WORK.md) for actual evidence. Placement is not a new completion or execution claim.
+See the [Python lessons](../Python/README.md), [ML/DL/CV coverage map](../ML-DL-CV/EXISTING-WORK.md), and [LLM coverage map](../LLM/EXISTING-WORK.md) for the current materials. Having a lesson file does not count as completing its checkpoint.
 
 Update this manually after each demonstration. Do not mark work complete merely because a folder exists.
 
 | Area | Starting status | Evidence / next checkpoint |
 |---|---|---|
-| Python | Reported complete; checkpoint pending | Imported practice and NumPy/Pandas notebooks; complete session 1 |
+| Python | Reported complete; checkpoint pending | Run the lesson examples and complete session 1 |
 | ML/DL/CV | Reported complete; checkpoint pending | Imported coursework; explain data splits, leakage, metrics, and one inference pipeline |
 | LLM mastery | Reported complete; checkpoint pending | Imported NLP examples and module placeholders; demonstrate retrieval + structured output + eval |
 | Backend / SQL | Not assessed | Implement persisted, validated CRUD with tests |

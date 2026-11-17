@@ -555,5 +555,20 @@ print(f"convert_to_int('abc'): {convert_to_int('abc')}")
 print(f"convert_to_int(True): {convert_to_int(True)}")
 
 print("\n" + "="*70)
-print("END OF SYNTAX, TYPES, AND OPERATORS")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+# A checkout total is a useful place to see floats and rounding together.
+_lesson_example_subtotal = 38.50
+_lesson_example_discount = 0.10
+_lesson_example_tax = 0.08
+_lesson_example_after_discount = _lesson_example_subtotal * (1 - _lesson_example_discount)
+_lesson_example_total = round(_lesson_example_after_discount * (1 + _lesson_example_tax), 2)
+
+print(f"\nCheckout total: ${_lesson_example_total:.2f}")
+print(f"Is the total over $40? {_lesson_example_total > 40}")
+
+_lesson_example_celsius = [0, 20, 30]
+_lesson_example_fahrenheit = [round(value * 9 / 5 + 32, 1) for value in _lesson_example_celsius]
+print(f"Temperatures in Fahrenheit: {_lesson_example_fahrenheit}")
+print("Lesson complete.")

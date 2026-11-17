@@ -459,5 +459,19 @@ print("""
 """)
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+_lesson_example_sales = pd.DataFrame(
+    {
+        "item": ["tea", "bread", "tea"],
+        "units": [3, 2, 4],
+        "unit_price": [2.50, 4.00, 2.50],
+    }
+)
+_lesson_example_sales["revenue"] = np.multiply(
+    _lesson_example_sales["units"], _lesson_example_sales["unit_price"]
+)
+print("\nRevenue by item:")
+print(_lesson_example_sales.groupby("item")["revenue"].sum())
+print("Lesson complete.")

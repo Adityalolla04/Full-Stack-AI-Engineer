@@ -479,5 +479,24 @@ avg_scores = {
 print(f"Student average scores: {avg_scores}")
 
 print("\n" + "="*70)
-print("END OF COLLECTIONS AND COMPREHENSIONS")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+_lesson_example_cart = [
+    ("tea", 3.50),
+    ("bread", 4.00),
+    ("tea", 3.50),
+]
+_lesson_example_totals = {}
+for _lesson_example_item, _lesson_example_price in _lesson_example_cart:
+    _lesson_example_totals[_lesson_example_item] = (
+        _lesson_example_totals.get(_lesson_example_item, 0) + _lesson_example_price
+    )
+
+print(f"\nCart totals: {_lesson_example_totals}")
+
+_lesson_example_requested = {"tea", "coffee"}
+_lesson_example_in_stock = {"tea", "bread"}
+print(f"Available requested items: {_lesson_example_requested & _lesson_example_in_stock}")
+print(f"Unavailable requested items: {_lesson_example_requested - _lesson_example_in_stock}")
+print("Lesson complete.")

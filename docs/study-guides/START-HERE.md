@@ -1,10 +1,10 @@
 # Your first seven study sessions
 
-Allow 60–120 minutes per session; split a session if needed. Use synthetic study records, not the imported patient data. Write your own code in the corresponding Python, Backend, SQL, or DSA concept's `practice/` folder. These instructions are exercises for you, not supplied implementations.
+Allow 60–120 minutes per session; split a session if needed. Use synthetic study records, not imported datasets. Write your own code in the corresponding Backend, SQL, or DSA concept's `practice/` folder; for Python, use the lesson file or a separate script. These instructions are exercises for you, not supplied implementations.
 
 ## Session 1 — Python from notebook to module
 
-Read a familiar routine in `Python/Previous-Practice/Basics/Python Practice.ipynb` or `Python/Previous-Practice/Basics/Numpy and Pandas.ipynb`. Then implement this independent problem:
+Read the [Python lesson examples](../../Python/README.md), then implement this independent problem:
 
 **Input:** CSV rows with `topic,minutes,completed`; `completed` accepts only `true` or `false`, and `minutes` must be a non-negative integer. Blank topic names are invalid. Normalize topic names by stripping whitespace and lowercasing.
 

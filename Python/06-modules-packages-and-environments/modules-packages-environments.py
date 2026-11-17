@@ -459,5 +459,11 @@ print("""
 """)
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+_lesson_example_report = Path("monthly-report.csv")
+print(f"\nReport name: {_lesson_example_report.stem}")
+print(f"Report format: {_lesson_example_report.suffix}")
+print(f"Running Python {sys.version_info.major}.{sys.version_info.minor}")
+print("Lesson complete.")

@@ -620,5 +620,34 @@ f = compose(double, add_one)  # (x + 1) * 2
 print(f"  compose(double, add_one)(5) = {f(5)}")  # (5+1)*2 = 12
 
 print("\n" + "="*70)
-print("END OF CONTROL FLOW AND FUNCTIONS")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+def _lesson_example_shipping_cost(weight_kg):
+    if weight_kg <= 0:
+        raise ValueError("Weight must be greater than zero")
+    if weight_kg <= 1:
+        return 4.50
+    return 4.50 + (weight_kg - 1) * 1.25
+
+
+_lesson_example_orders = [0.5, 1, 2.5]
+for _lesson_example_weight in _lesson_example_orders:
+    print(
+        f"{_lesson_example_weight} kg package: "
+        f"${_lesson_example_shipping_cost(_lesson_example_weight):.2f}"
+    )
+
+
+def _lesson_example_first_long_word(words, minimum_length):
+    for word in words:
+        if len(word) >= minimum_length:
+            return word
+    return None
+
+
+print(
+    "First long word:",
+    _lesson_example_first_long_word(["tea", "coffee", "water"], 6),
+)
+print("Lesson complete.")

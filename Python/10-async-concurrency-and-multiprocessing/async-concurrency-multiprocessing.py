@@ -533,5 +533,20 @@ print("""
 """)
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+async def _lesson_example_check_service(name):
+    await asyncio.sleep(0)
+    return f"{name}: ready"
+
+
+async def _lesson_example_check_services():
+    return await asyncio.gather(
+        _lesson_example_check_service("catalog"),
+        _lesson_example_check_service("payments"),
+    )
+
+
+print(f"\nService checks: {asyncio.run(_lesson_example_check_services())}")
+print("Lesson complete.")

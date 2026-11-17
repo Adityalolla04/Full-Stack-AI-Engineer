@@ -1,6 +1,6 @@
 # Existing material placement
 
-Completed on 2026-11-07. Existing implementations were redistributed; no new exercise solutions were authored.
+Completed on 2026-11-07. Existing implementations were redistributed; no new exercise solutions were authored. The copied Python practice notebooks and datasets have since been removed in favor of the runnable lessons.
 
 63 original files moved. Six notebooks received only local dataset-path changes; original hashes remain in the import manifest and detailed migration record. Other moved files retain their original bytes.
 
@@ -8,14 +8,6 @@ Completed on 2026-11-07. Existing implementations were redistributed; no new exe
 
 | Original imported path | Current path |
 |---|---|
-| `Python/Previous-Practice/Basics/Python Practice.ipynb` | [Open](../Python/01-syntax-types-and-operators/practice/existing/Python%20Practice.ipynb) |
-| `Python/Previous-Practice/Basics/Numpy and Pandas.ipynb` | [Open](../Python/11-numpy-and-pandas/practice/existing/Numpy%20and%20Pandas.ipynb) |
-| `Python/Previous-Practice/Basics/pandas.csv` | [Open](../Python/11-numpy-and-pandas/practice/existing/pandas.csv) |
-| `Python/Previous-Practice/Basics/100-patients/AdmissionsCorePopulatedTable.txt` | [Open](../Python/11-numpy-and-pandas/practice/existing/100-patients/AdmissionsCorePopulatedTable.txt) |
-| `Python/Previous-Practice/Basics/100-patients/AdmissionsDiagnosesCorePopulatedTable.txt` | [Open](../Python/11-numpy-and-pandas/practice/existing/100-patients/AdmissionsDiagnosesCorePopulatedTable.txt) |
-| `Python/Previous-Practice/Basics/100-patients/LabsCorePopulatedTable.txt` | [Open](../Python/11-numpy-and-pandas/practice/existing/100-patients/LabsCorePopulatedTable.txt) |
-| `Python/Previous-Practice/Basics/100-patients/PatientCorePopulatedTable.txt` | [Open](../Python/11-numpy-and-pandas/practice/existing/100-patients/PatientCorePopulatedTable.txt) |
-| `Python/Previous-Practice/Basics/100-patients/ReadMe.txt` | [Open](../Python/11-numpy-and-pandas/practice/existing/100-patients/ReadMe.txt) |
 | `LLM/Previous-Practice/01-nlp-foundations/sentiment_logistic.py` | [Open](../LLM/21-nlp-foundations-and-vector-spaces/practice/existing/sentiment_logistic.py) |
 | `LLM/Previous-Practice/01-nlp-foundations/README.md` | [Open](../LLM/21-nlp-foundations-and-vector-spaces/practice/existing/original-nlp-notes.md) |
 | `LLM/Previous-Practice/01-nlp-foundations/Vector_spaces.py` | [Open](../LLM/05-embeddings/practice/existing/Vector_spaces.py) |
@@ -65,7 +57,6 @@ Completed on 2026-11-07. Existing implementations were redistributed; no new exe
 | `ML-DL-CV/Previous-Practice/Machine_learning/Week1 & 2- Linear Regression/Exercise/C1_W2_Linear_Regression (1).ipynb` | [Open](../ML-DL-CV/04-linear-and-logistic-regression/practice/existing/C1_W2_Linear_Regression%20%281%29.ipynb) |
 | `ML-DL-CV/Previous-Practice/Machine_learning/Week1 & 2- Linear Regression/Practice labs/C1_W1_Lab02_Model_Representation_Soln.ipynb` | [Open](../ML-DL-CV/04-linear-and-logistic-regression/practice/existing/C1_W1_Lab02_Model_Representation_Soln.ipynb) |
 | `ML-DL-CV/Previous-Practice/Machine_learning/Week1 & 2- Linear Regression/Practice labs/C1_W1_Lab03_Cost_function_Soln.ipynb` | [Open](../ML-DL-CV/04-linear-and-logistic-regression/practice/existing/C1_W1_Lab03_Cost_function_Soln.ipynb) |
-| `ML-DL-CV/Previous-Practice/Machine_learning/Week1 & 2- Linear Regression/Practice labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb` | [Open](../Python/11-numpy-and-pandas/practice/existing/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb) |
 | `ML-DL-CV/Previous-Practice/Machine_learning/Week1 & 2- Linear Regression/Practice labs/C1_W2_Lab02_Multiple_Variable_Soln.ipynb` | [Open](../ML-DL-CV/04-linear-and-logistic-regression/practice/existing/C1_W2_Lab02_Multiple_Variable_Soln.ipynb) |
 | `ML-DL-CV/Previous-Practice/Machine_learning/Week1 & 2- Linear Regression/Practice labs/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb` | [Open](../ML-DL-CV/09-feature-engineering-pipelines-and-tuning/practice/existing/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb) |
 | `ML-DL-CV/Previous-Practice/Machine_learning/Week1 & 2- Linear Regression/Practice labs/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb` | [Open](../ML-DL-CV/09-feature-engineering-pipelines-and-tuning/practice/existing/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb) |

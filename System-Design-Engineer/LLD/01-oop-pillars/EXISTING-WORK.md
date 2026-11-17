@@ -6,7 +6,7 @@ These are your previously imported files, not newly generated solutions. Cell nu
 
 | Material | Cells / sections | Coverage |
 |---|---|---|
-| [Python Practice.ipynb](../../../Python/01-syntax-types-and-operators/practice/existing/Python%20Practice.ipynb) | 149–179, 182 | OOP/dataclass/inheritance/abstract-class examples from Python. |
+| [Python OOP examples](../../../Python/05-oop-and-dataclasses/oop-dataclasses.py) | — | Classes, dataclasses, and inheritance examples. |
 
 ## Before running
 

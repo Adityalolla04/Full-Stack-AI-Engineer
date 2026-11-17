@@ -454,5 +454,16 @@ for filename in [test_file, test_file_append, test_file_lines]:
         print(f"Removed {filename}")
 
 print("\n" + "="*70)
-print("Module completed successfully!")
+print("A COUPLE MORE EXAMPLES")
 print("="*70)
+
+_lesson_example_email = "  Maya.Example@school.edu  ".strip().lower()
+_lesson_example_name, _, _lesson_example_domain = _lesson_example_email.partition("@")
+print(f"\nEmail user: {_lesson_example_name}")
+print(f"Email domain: {_lesson_example_domain}")
+
+try:
+    _lesson_example_port = int("eighty")
+except ValueError as _lesson_example_error:
+    print(f"Could not read the port: {_lesson_example_error}")
+print("Lesson complete.")
