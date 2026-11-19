@@ -1,6 +1,6 @@
 # Relational Basics and Data Types
 
-[Back to SQL](../README.md) · [Your practice space](practice/README.md)
+[Back to SQL](../README.md) · [SQL example](examples.sql)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Storing every value as text and deferring all correctness to the application.
 
 Sketch users, topics, and sessions tables with types and nullability.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+Run the [SQL example](examples.sql) after loading the shared [sample data](../setup.sql).
 
 ## Recall check
 

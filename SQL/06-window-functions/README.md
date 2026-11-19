@@ -1,6 +1,6 @@
 # Window Functions
 
-[Back to SQL](../README.md) · [Your practice space](practice/README.md)
+[Back to SQL](../README.md) · [SQL example](examples.sql)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Relying on a default window frame without checking tie behavior.
 
 Design per-user ranking and day-over-day comparisons, including equal values.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+Run the [SQL example](examples.sql) after loading the shared [sample data](../setup.sql).
 
 ## Recall check
 

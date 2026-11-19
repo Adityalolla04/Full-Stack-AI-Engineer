@@ -1,6 +1,6 @@
 # Transactions Isolation and Locks
 
-[Back to SQL](../README.md) · [Your practice space](practice/README.md)
+[Back to SQL](../README.md) · [SQL example](examples.sql)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Assuming a read followed by a write is automatically safe at every isolation lev
 
 Draw a lost-update timeline and propose a transaction strategy.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+Run the [SQL example](examples.sql) after loading the shared [sample data](../setup.sql).
 
 ## Recall check
 

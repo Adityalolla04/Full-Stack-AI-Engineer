@@ -1,6 +1,6 @@
 # Subqueries CTEs and Set Operations
 
-[Back to SQL](../README.md) · [Your practice space](practice/README.md)
+[Back to SQL](../README.md) · [SQL example](examples.sql)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Assuming every CTE is always materialized in every database.
 
 Plan a multi-stage summary query and explain whether duplicates should remain.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+Run the [SQL example](examples.sql) after loading the shared [sample data](../setup.sql).
 
 ## Recall check
 

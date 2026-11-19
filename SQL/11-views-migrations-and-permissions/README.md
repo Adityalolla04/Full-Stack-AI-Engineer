@@ -1,6 +1,6 @@
 # Views Migrations and Permissions
 
-[Back to SQL](../README.md) · [Your practice space](practice/README.md)
+[Back to SQL](../README.md) · [SQL example](examples.sql)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Giving every service an owner-level database account.
 
 Plan a schema change and a read-only reporting role.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+Run the [SQL example](examples.sql) after loading the shared [sample data](../setup.sql).
 
 ## Recall check
 

@@ -1,6 +1,6 @@
 # Keys Constraints and Normalization
 
-[Back to SQL](../README.md) · [Your practice space](practice/README.md)
+[Back to SQL](../README.md) · [SQL example](examples.sql)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Assuming application validation prevents all concurrent invalid writes.
 
 Normalize a repeated spreadsheet-style table and define deletion behavior.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+Run the [SQL example](examples.sql) after loading the shared [sample data](../setup.sql).
 
 ## Recall check
 

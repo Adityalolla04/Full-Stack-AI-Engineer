@@ -1,6 +1,6 @@
 # SQL Practice Case Study
 
-[Back to SQL](../README.md) · [Your practice space](practice/README.md)
+[Back to SQL](../README.md) · [SQL example](examples.sql)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Writing queries without a known expected result on a small dataset.
 
 Create your own small dataset and write ten queries, one transaction scenario, and one index experiment.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+Run the [SQL example](examples.sql) after loading the shared [sample data](../setup.sql).
 
 ## Recall check
 

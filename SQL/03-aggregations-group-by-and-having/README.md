@@ -1,6 +1,6 @@
 # Aggregations GROUP BY and HAVING
 
-[Back to SQL](../README.md) · [Your practice space](practice/README.md)
+[Back to SQL](../README.md) · [SQL example](examples.sql)
 
 ## In simple words
 
@@ -22,7 +22,7 @@ Selecting arbitrary ungrouped columns or confusing WHERE with HAVING.
 
 Plan daily and per-topic totals and a minimum-session-count filter.
 
-Write your own implementation in `practice/` when ready. No solution or starter code is supplied.
+Run the [SQL example](examples.sql) after loading the shared [sample data](../setup.sql).
 
 ## Recall check
 

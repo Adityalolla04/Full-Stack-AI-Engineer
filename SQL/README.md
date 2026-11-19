@@ -1,6 +1,16 @@
 # SQL
 
-Read one concept, explain the example, then use its `practice/` folder for your own implementation. No new solution code is included.
+Read one concept, explain the example, then run its SQL script against the shared temporary sample data.
+
+## Running the examples
+
+The scripts use PostgreSQL. From the repository root, load the setup and one concept script in the same `psql` session. The setup creates only temporary tables, so the sample data disappears when the session ends.
+
+```powershell
+psql -X -v ON_ERROR_STOP=1 -f .\SQL\setup.sql -f .\SQL\01-relational-basics-and-data-types\examples.sql
+```
+
+Replace the final path with another concept's `examples.sql` file. Each concept README links to its script.
 
 ## Concept index
 
@@ -19,4 +29,4 @@ Read one concept, explain the example, then use its `practice/` folder for your 
 
 ## How to study
 
-Start with the README, write a short explanation from memory, and attempt the practice task yourself. Revisit after 1, 7, and 30 days. Mark progress only after you can explain and apply the idea.
+Start with the README, write a short explanation from memory, then run and modify the SQL example. Revisit after 1, 7, and 30 days. Mark progress only after you can explain and apply the idea.
